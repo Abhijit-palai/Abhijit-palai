@@ -20,7 +20,7 @@ while True: learn(), build(), grow()
 
 > *"Building intelligent systems that solve real-world problems — one pipeline at a time."*
 
-- 🎓 **MCA** — Gandhi Engineering College, Bhubaneswar *(CGPA: 7.6)*
+- 🎓 **MCA** — Gandhi Engineering College, Bhubaneswar **
 - 💼 Hands-on experience in **end-to-end ML pipelines, NLP & Generative AI**
 - 🔭 Currently building with **LangChain, RAG architectures & Vector Databases**
 - 🌱 Exploring **LLM fine-tuning, Agentic AI & scalable REST APIs**
@@ -98,9 +98,6 @@ while True: learn(), build(), grow()
 
 <div align="center">
 
-![Abhijit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijit-palai&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit-palai&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Abhijit-palai&theme=tokyonight&hide_border=true)
 
