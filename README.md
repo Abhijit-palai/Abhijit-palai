@@ -98,7 +98,7 @@ while True: learn(), build(), grow()
 
 <div align="center">
 
-![Abhijit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijit-palai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Abhijit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijit-palai&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit-palai&layout=compact&theme=tokyonight&hide_border=true)
 
